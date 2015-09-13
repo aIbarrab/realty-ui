@@ -1,0 +1,36 @@
+<% if (collection.length > 0) { %>
+    <% _.each(collection, function(apartment) { %>
+        <div class="apartment col-md-12">
+            <div class="col-md-12">
+                <h4>
+                    <a href="#/apartment/<%= apartment.id %>">
+                        <%= apartment.title %>
+                    </a>
+                </h4>
+            </div>
+            <div class="col-md-12">
+                <div class="thumbnail col-md-2">
+                    <a href="#/apartment/<%= apartment.id %>">
+                        <img src="<%= apartment.thumbnail %>">
+                    </a>
+                </div>
+                <div class="col-md-5">
+                    <p>
+                        <b>Monthly Rent:</b> <%= apartment.details.price %><br>
+                        <b>Rooms:</b> <%= apartment.details.rooms %>
+                    </p>
+                </div>
+                <div class="col-md-5">
+                    <p>
+                        <b>Location</b>: <%= apartment.details.location %> <br>
+                        <%= apartment.description %>
+                    </p>
+                </div>
+            </div>
+        </div>
+    <% }); %>
+<% } else {%>
+    <div class="col-md-12">
+        <p>No Apartments Found For Specified Criteria</p>
+    </div>
+<% } %>

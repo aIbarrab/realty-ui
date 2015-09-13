@@ -1,0 +1,110 @@
+{
+  "apartments": [
+    {
+      "id": 1,
+      "publisher_id": 1,
+      "title": "Apartamentos en Curridabat | TERRAQUEA APARTAMENTO PARA ESTRENAR EN PINARES DE CURRIDABAT",
+      "description": "TERRAQUEA APARTAMENTO PARA ESTRENAR EN PINARES DE CURRIDABAT. Apartamento para estrenar en condominio de pocas unidades, a solo 150 metros del Momentum Pinares, Walmart, fresh market. Zona rodeado de parques para caminar y hacer ejercicio. El apartamento cuenta con dos habitaciones, amplia área social, cocina con sobre de granito, cuarto de pilas, agua caliente en toda la unidad.",
+      "date_published": "11/09/2015",
+      "thumbnail": "http://placehold.it/100x100",
+      "details": {
+        "location": "Curridabat",
+        "price": 650,
+        "rooms": 2,
+        "bathrooms": 1,
+        "parking_lots": 2,
+        "notes": "Seguridad 24 Horas, Área para desayunador"
+      }
+    },
+    {
+      "id": 2,
+      "publisher_id": 1,
+      "title": "Apartamentos en Curridabat | TERRAQUEA APARTAMENTO PARA ESTRENAR EN PINARES DE CURRIDABAT",
+      "description": "TERRAQUEA APARTAMENTO PARA ESTRENAR EN PINARES DE CURRIDABAT. Apartamento para estrenar en condominio de pocas unidades, a solo 150 metros del Momentum Pinares, Walmart, fresh market. Zona rodeado de parques para caminar y hacer ejercicio. El apartamento cuenta con dos habitaciones, amplia área social, cocina con sobre de granito, cuarto de pilas, agua caliente en toda la unidad.",
+      "date_published": "11/09/2015",
+      "thumbnail": "http://placehold.it/100x100",
+      "details": {
+        "location": "Curridabat",
+        "price": 650,
+        "rooms": 2,
+        "bathrooms": 1,
+        "parking_lots": 2,
+        "notes": "Seguridad 24 Horas, Área para desayunador"
+      }
+    },
+    {
+      "id": 3,
+      "publisher_id": 1,
+      "title": "Apartamentos en Curridabat | TERRAQUEA APARTAMENTO PARA ESTRENAR EN PINARES DE CURRIDABAT",
+      "description": "TERRAQUEA APARTAMENTO PARA ESTRENAR EN PINARES DE CURRIDABAT. Apartamento para estrenar en condominio de pocas unidades, a solo 150 metros del Momentum Pinares, Walmart, fresh market. Zona rodeado de parques para caminar y hacer ejercicio. El apartamento cuenta con dos habitaciones, amplia área social, cocina con sobre de granito, cuarto de pilas, agua caliente en toda la unidad.",
+      "date_published": "11/09/2015",
+      "thumbnail": "http://placehold.it/100x100",
+      "details": {
+        "location": "Curridabat",
+        "price": 650,
+        "rooms": 2,
+        "bathrooms": 1,
+        "parking_lots": 2,
+        "notes": "Seguridad 24 Horas, Área para desayunador"
+      }
+    },
+    {
+      "id": 4,
+      "publisher_id": 1,
+      "title": "Apartamentos en Curridabat | TERRAQUEA APARTAMENTO PARA ESTRENAR EN PINARES DE CURRIDABAT",
+      "description": "TERRAQUEA APARTAMENTO PARA ESTRENAR EN PINARES DE CURRIDABAT. Apartamento para estrenar en condominio de pocas unidades, a solo 150 metros del Momentum Pinares, Walmart, fresh market. Zona rodeado de parques para caminar y hacer ejercicio. El apartamento cuenta con dos habitaciones, amplia área social, cocina con sobre de granito, cuarto de pilas, agua caliente en toda la unidad.",
+      "date_published": "11/09/2015",
+      "thumbnail": "http://placehold.it/100x100",
+      "details": {
+        "location": "Curridabat",
+        "price": 650,
+        "rooms": 2,
+        "bathrooms": 1,
+        "parking_lots": 2,
+        "notes": "Seguridad 24 Horas, Área para desayunador"
+      }
+    },
+    {
+      "id": 5,
+      "publisher_id": 1,
+      "title": "Apartamentos en Curridabat | TERRAQUEA APARTAMENTO PARA ESTRENAR EN PINARES DE CURRIDABAT",
+      "description": "TERRAQUEA APARTAMENTO PARA ESTRENAR EN PINARES DE CURRIDABAT. Apartamento para estrenar en condominio de pocas unidades, a solo 150 metros del Momentum Pinares, Walmart, fresh market. Zona rodeado de parques para caminar y hacer ejercicio. El apartamento cuenta con dos habitaciones, amplia área social, cocina con sobre de granito, cuarto de pilas, agua caliente en toda la unidad.",
+      "date_published": "11/09/2015",
+      "thumbnail": "http://placehold.it/100x100",
+      "details": {
+        "location": "Curridabat",
+        "price": 650,
+        "rooms": 2,
+        "bathrooms": 1,
+        "parking_lots": 2,
+        "notes": "Seguridad 24 Horas, Área para desayunador"
+      }
+    },
+    {
+      "id": 6,
+      "publisher_id": 1,
+      "title": "Apartamentos en Curridabat | TERRAQUEA APARTAMENTO PARA ESTRENAR EN PINARES DE CURRIDABAT",
+      "description": "TERRAQUEA APARTAMENTO PARA ESTRENAR EN PINARES DE CURRIDABAT. Apartamento para estrenar en condominio de pocas unidades, a solo 150 metros del Momentum Pinares, Walmart, fresh market. Zona rodeado de parques para caminar y hacer ejercicio. El apartamento cuenta con dos habitaciones, amplia área social, cocina con sobre de granito, cuarto de pilas, agua caliente en toda la unidad.",
+      "date_published": "11/09/2015",
+      "thumbnail": "http://placehold.it/100x100",
+      "details": {
+        "location": "Curridabat",
+        "price": 650,
+        "rooms": 2,
+        "bathrooms": 1,
+        "parking_lots": 2,
+        "notes": "Seguridad 24 Horas, Área para desayunador"
+      }
+    }
+  ],
+  "publishers": [
+    {
+      "id": 1,
+      "type": "owner",
+      "name": "pedro perrin",
+      "company": "Earth",
+      "phone": "21345432",
+      "webpage": "acoolcompany.com"
+    }
+  ]
+}
